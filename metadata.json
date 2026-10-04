@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Maker",
+  "description": "Generate stunning cinematic, realistic, fantasy, and historical videos from text prompts with customizable durations and built-in video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
